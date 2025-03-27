@@ -12,6 +12,6 @@
 
         public string? Phone { get; set; } //burdaki soru işareti Null olabiliri ifade eder.
 
-        public List<RentedBook>? RentedBooks { get; set; }
+       // public List<RentedBook>? RentedBooks { get; set; }
     }
 }

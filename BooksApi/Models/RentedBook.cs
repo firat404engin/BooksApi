@@ -13,7 +13,7 @@
 
         public Book? Book { get; set; }
 
-        public DateTime StarDate { get; set; }
+        public DateTime StartDate { get; set; }
 
         public DateTime? EndDate { get; set; } // kiralanan kitap ilk aşamada verilemeceği için null olabilir.
     }
